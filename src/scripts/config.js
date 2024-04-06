@@ -1,3 +1,3 @@
 export default {
-    clientCorsPassword: '12345678'
+    clientCorsPassword: 'yichen9247'
 };
